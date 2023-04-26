@@ -1,0 +1,49 @@
+"Be the change you wish to see in the world." - Mahatma Gandhi
+"Believe you can and you're halfway there." - Theodore Roosevelt
+"The only way to do great work is to love what you do." - Steve Jobs
+"We are what we repeatedly do. Excellence, then, is not an act but a habit." - Aristotle
+"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
+"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+"If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
+"The best way to predict your future is to create it." - Abraham Lincoln
+"The only true wisdom is in knowing you know nothing." - Socrates
+"You miss 100% of the shots you don't take." - Wayne Gretzky
+"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+"The mind is everything. What you think you become." - Buddha
+"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+"The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke
+"I can't change the direction of the wind, but I can adjust my sails to always reach my destination." - Jimmy Dean
+"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
+"I have a dream." - Martin Luther King Jr.
+"Life is a journey, and if you fall in love with the journey, you will be in love forever." - Peter Hagerty
+"There are two types of people in this world: those who make things happen and those who watch things happen." - Tommy Lasorda
+"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+"Happiness is not the absence of problems, it's the ability to deal with them." - Steve Maraboli
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+"You must be the change you wish to see in the world." - Mahatma Gandhi
+"If you can't explain it simply, you don't understand it well enough." - Albert Einstein
+"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson
+"Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
+"You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
+"If you want to go fast, go alone. If you want to go far, go together." - African Proverb
+"Everything you've ever wanted is on the other side of fear." - George Addair
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson and Gerald Jay Sussman
+"It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Andrew Hunt and David Thomas
+"A good programmer is someone who always looks both ways before crossing a one way street." - Doug Linder
+"The best way to predict the future is to invent it." - Alan Kay
+"Programming is not about typing, it's about thinking." - Rich Hickey
+"The most important skill for a programmer is the ability to effectively communicate with others." - Richard Whitehead
+"Debugging is like being a detective in a crime movie where you are also the murderer." - Filipe Fortes
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson and Gerald Jay Sussman
+"There's nothing quite so useless as doing with great efficiency something that should not be done at all." - Peter Drucker
+"The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation." - Leo Cherne
+"It's not that we have to quit this life one day, but it's how many things we have to quit all at once: music, laughter, the physics of falling leaves, automobiles, holding hands, the smell of rain, poppies, and the future." - Fernando Pessoa
+"The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+"The best code is no code at all." - Jeff Atwood
+"First, solve the problem. Then, write the code." - John Johnson
+"I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+"Good code is its own best documentation." - Steve McConnell
